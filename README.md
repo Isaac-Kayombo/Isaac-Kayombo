@@ -4,7 +4,7 @@ Hi 👋 My name is Isaac Kayombo
 Student / Junior Software Developer
 -----------------------------------
 
-I am very interested in learning new technologies and I enjoy taking upon new challenges😎. I still haven't found my feet yet as I am still growing and learning, but I am excited to see where I land🌱. I am currently a student with CodeSpace Academy, where I am being guided and trained into becoming a Software Developer. I am excited to see what the future holds for me.😁🙈
+I am very interested in learning new technologies and I enjoy taking upon new challenges😎. I still haven't found my feet yet as I am still growing and learning, but I am excited to see where I land🌱. I am currently a student with <a href="https://www.codespace.co.za/" target="_blank">CodeSpace Academy</a>, where I am being guided and trained into becoming a Software Developer. I am excited to see what the future holds for me.😁🙈
 
 * 🌍  I'm based in Rustenburg NW, RSA
 * 🖥️  See my portfolio at [isaackayombo](http://github.com/Isaac-Kayombo/Module_7R_CS20240251_PTO2407_GroupB_IsaacKayombo_SDF07_R)
